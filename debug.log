@@ -1,0 +1,19 @@
+[0116/120554:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0116/120554:ERROR:exception_snapshot_win.cc(87)] thread ID 2964 not found in process
+[0116/120554:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0116/120554:ERROR:exception_snapshot_win.cc(87)] thread ID 1988 not found in process
+[0116/120554:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0116/120554:ERROR:exception_snapshot_win.cc(87)] thread ID 2412 not found in process
+[0116/120554:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0116/120554:ERROR:exception_snapshot_win.cc(87)] thread ID 2084 not found in process
+[0116/120554:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0116/120555:ERROR:exception_snapshot_win.cc(87)] thread ID 4076 not found in process
+[0116/120555:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0116/120555:ERROR:exception_snapshot_win.cc(87)] thread ID 2400 not found in process
+[0116/120555:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0116/120555:ERROR:exception_snapshot_win.cc(87)] thread ID 2320 not found in process
+[0116/120555:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0118/172910:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0118/172910:ERROR:exception_snapshot_win.cc(87)] thread ID 1764 not found in process
+[0118/172910:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0118/172910:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
